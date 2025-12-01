@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PartialBookSalesScoring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52d19812f47476e882ffd954a6629cc252f2c284")]
 [assembly: System.Reflection.AssemblyProductAttribute("PartialBookSalesScoring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PartialBookSalesScoring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
